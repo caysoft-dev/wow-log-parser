@@ -1,6 +1,6 @@
 {
   "name": "wow-log-parser",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Parse World of Warcraft combat logs",
   "main": "index.js",
   "repository": "git@github.com:JanKoppe/wow-log-parser.git",
